@@ -1,4 +1,4 @@
-# wordpress-plug-spare
+# Spare Payment Method For Wordpress
 
 This is a Spare Checkout Payment Method for WooCommerce.
 
